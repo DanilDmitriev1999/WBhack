@@ -1,2 +1,3 @@
-data/
+data/query_popularity.csv.gz
+data/search_history.csv.gz
 __pycache__
