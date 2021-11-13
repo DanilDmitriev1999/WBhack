@@ -1,0 +1,1 @@
+streamlit run c:/Users/shkun/Documents/Wildhack/app.py
